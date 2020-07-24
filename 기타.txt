@@ -1,0 +1,8 @@
+코딩 잘하는 법:
+중복을 어케든 간결하게 만들면 된다.
+
+https://m.blog.naver.com/PostView.nhn?blogId=bgpoilkj&logNo=220751401209&proxyReferer=https:%2F%2Fwww.google.com%2F
+php 게시판 만들기 참고
+
+
+https://www.youtube.com/watch?v=jBYxJ7pLiCY //팝업창으로 관리자 회원 가입을 하기
